@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "focus-time",
+    "slug": "snack-3391c920-0ba9-44dd-8f5c-3ef806d395fd",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "This project has been carried out under the guidance of udemy instructors and their courses accordingly.\n\nIt is a simple react-native app with cross platform ability."
+  }
+}
